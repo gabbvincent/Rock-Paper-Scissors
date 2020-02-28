@@ -1,6 +1,6 @@
 // Programmer name: Vincent Gabb
-// Date completed:  2/25/2020
-// Description: 2.3.1 Section 1
+// Date completed:  2/27/2020
+// Description: 2.3.2 Part 2
 
 package main
 
